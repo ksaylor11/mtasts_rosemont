@@ -1,0 +1,1 @@
+Public record for mta-sts
